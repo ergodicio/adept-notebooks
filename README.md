@@ -7,5 +7,7 @@ This is a repository for collecting useful notebooks related to `ADEPT` (https:/
 - Strong Landau damping (large amplitude electron plasma wave)
 
 #### Enveloped 3-wave equations
-- Two Plasmon Decay Instability
+- Two Plasmon Decay Instability 
 
+#### Vlasov-Fokker-Planck (thermal transport)
+- Laser hotspot relaxation and non-local heat flow
