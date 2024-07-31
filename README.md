@@ -10,5 +10,4 @@ This is a repository for collecting useful notebooks related to `ADEPT` (https:/
 - Two Plasmon Decay Instability 
 
 #### Vlasov-Fokker-Planck (thermal transport)
-
 - Laser hotspot relaxation and non-local heat flow
