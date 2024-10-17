@@ -3,3 +3,4 @@ xarray
 jupyterlab
 h5netcdf
 scipy
+git+https://github.com/ergodicio/adept.git@v0.0.3#egg=adept[cpu]
